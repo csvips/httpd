@@ -11,7 +11,7 @@ data:
     module:
     - MIT
   dependencies:
-    - buildrequires:
+      buildrequires:
         platform: [el8.2.0]
       requires:
         platform: [el8]
