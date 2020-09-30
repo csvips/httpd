@@ -3,7 +3,7 @@ document: modulemd
 version: 2
 data:
   name: httpd
-  stream: 2.4
+  stream: master
   summary: Apache HTTP Server
   description: >-
     Apache httpd is a powerful, efficient, and extensible HTTP server.
