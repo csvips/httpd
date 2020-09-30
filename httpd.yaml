@@ -11,10 +11,10 @@ data:
     module:
     - MIT
   dependencies:
-      buildrequires:
-        platform: [el8.2.0]
-      requires:
-        platform: [el8]
+  - buildrequires:
+      platform: [el8.2.0]
+    requires:
+      platform: [el8]
   references:
     documentation: https://httpd.apache.org/docs/2.4/
     tracker: https://bz.apache.org/bugzilla/
